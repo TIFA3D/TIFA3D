@@ -1,0 +1,12 @@
+.el-aside {
+  height: calc(100vh - 60px);
+
+  ul {
+    background: var( --aside-background-color);
+
+    li {
+      color: var(--aside-text-color);
+      margin: 20px 0;
+    }
+  }
+}
