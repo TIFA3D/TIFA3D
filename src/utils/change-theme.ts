@@ -5,5 +5,3 @@ export const changeTheme = () => {
   html.setAttribute('theme', newTheme);
   localStorage.setItem('theme', newTheme);
 }
-
-

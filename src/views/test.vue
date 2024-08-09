@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import { changeTheme } from "@/utils/changeTheme.ts";
+import { changeTheme } from "@/utils/change-theme.ts";
 
 const changeMode = () => {
   changeTheme();

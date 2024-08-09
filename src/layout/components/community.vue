@@ -2,7 +2,7 @@
 import WaterFall from "@/components/WaterFall.vue";
 import { ref, computed } from "vue";
 import img from "../../assets/images/img4.svg";
-import { RandomColor } from "@/utils/RandomColor.ts";
+import { RandomColor } from "@/utils/random-color.ts";
 
 const originalItems = ref([
   {
